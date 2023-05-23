@@ -1,0 +1,11 @@
+{
+  "excel": { 
+    "username": "excel", 
+    "password":"123456",
+    "database":"database" ,
+    "dbCapacity": 52428800, 
+    "dbRows": 100000, 
+    "dbActiveCapacity": 8800, 
+    "dbActiveRows": 100
+  }
+}
